@@ -1,0 +1,12 @@
+.txtWelcome {
+    font-size: 54pt;
+}
+.txtWelcome2 {
+    font-size: 18pt;
+}
+
+.bgTudo {
+    background: -moz-linear-gradient(rgba(5,11,158,1) 16%, rgba(148,233,226,1) 100%);
+    background: -webkit-linear-gradient (rgba(5,11,158,1) 16%, rgba(148,233,226,1) 100%);
+    background: linear-gradient(rgba(5,11,158,1) 16%, rgba(148,233,226,1) 100%)
+}

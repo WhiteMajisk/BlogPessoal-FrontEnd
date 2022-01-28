@@ -1,0 +1,17 @@
+#imgBackground {
+    background-image: url('../../assets/Gabinete-RGB.jpg');
+    min-height: 625px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media (max-width: 768px) {
+    #imgBackground {
+        display: none;
+    }
+}
+
+#tamEntrar {
+    height: 100vh;
+}

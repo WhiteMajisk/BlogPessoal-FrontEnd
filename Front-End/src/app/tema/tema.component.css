@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&display=swap%27");
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap%27");
+
+.bgTudo {
+    background-image: url('https://i.imgur.com/AUyOIPz.jpg');
+}
+
+.txtWelcome {
+    font-size: 32pt !important;
+    font-weight: bold;
+    font-family: Montserrat, sans-serif;
+}
+.txtWelcome2 {
+    font-size: 14pt !important;
+    font-family: Poppins, sans-serif;
+}
+
+h2 {
+    font-size: 25pt !important;
+    font-weight: bold;
+    font-family: Montserrat, sans-serif;
+    }
+
+thead {
+    font-size: 12pt !important;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+}
+
+tbody {
+    font-size: 10pt !important;
+    font-family: Poppins, sans-serif;
+}
+
+.btn {
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+
+input {   
+    border-radius: 20px;
+    font-size: 10pt !important;
+}
