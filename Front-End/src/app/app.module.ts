@@ -14,7 +14,8 @@ import { CadastroComponent } from './cadastrar/cadastrar.component';
 import { InicioComponent } from './inicio/inicio.component';
 import { TemaComponent } from './tema/tema.component';
 import { TemaEditComponent } from './edit/tema-edit/tema-edit.component';
-import { TemaDeleteComponent } from './delete/tema-delete/tema-delete.component';
+import { TemaDeleteComponent } from './delete/tema-delete/tema/tema-delete.component';
+import { AlertasComponent } from './alertas/alertas.component';
 
 
 @NgModule({
@@ -27,7 +28,8 @@ import { TemaDeleteComponent } from './delete/tema-delete/tema-delete.component'
     InicioComponent,
     TemaComponent,
     TemaEditComponent,
-    TemaDeleteComponent
+    TemaDeleteComponent,
+    AlertasComponent
     ],
     
   imports: [
